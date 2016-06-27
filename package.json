@@ -132,7 +132,7 @@
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
-    "firmata": "^0.12.0",
+    "firmata": "git@github.com:thorikawa/firmata.js.git#0.12.0.electron",
     "serialport": "^3.0.0"
   },
   "devDependencies": {
